@@ -45,7 +45,7 @@ The repository is structured as follows:
 
 ## Testing
 
-Specific test cases were used to validate the functionality of the programs. Details of the testing process and outcomes can be found in the [report](report.pdf).
+Specific test cases were used to validate the functionality of the programs. Details of the testing process and outcomes can be found in the [report](Report.pdf).
 
 ## Contributing
 
