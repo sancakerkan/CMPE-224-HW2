@@ -40,16 +40,19 @@ The repository is structured as follows:
 1. Clone the repository to your local machine.
 2. Navigate to the appropriate directory for the problem you want to work on (`Question 1` for Problem 1, `Question 2` for Problem 2).
 3. Compile the Java source files.
-4. Run the main program to execute the solution.
+4. **Ensure that the input text files (`HW2_Q1_text.txt` for Problem 1, `HW2_Q2_text.txt` for Problem 2) are in the appropriate directory before running the code.**
+5. Run the main program to execute the solution.
 
 ## Testing
 
-I performed testing for both problem scenarios to ensure the correctness and performance of the solutions. Specific test cases were used to validate the functionality of the programs. Details of the testing process and outcomes can be found in the [report](report.pdf).
+Specific test cases were used to validate the functionality of the programs. Details of the testing process and outcomes can be found in the [report](report.pdf).
 
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
 ## License
+
+
 
 
