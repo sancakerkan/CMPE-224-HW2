@@ -18,10 +18,10 @@ In this programming homework, I implemented solutions for two distinct problems 
 
 ## Problem Statements
 
-- **Problem 1**: Finding Two-Step Paths
+- **[Problem 1: Finding Two-Step Paths](https://github.com/sancakerkan/DirectedGraphProjects/tree/main/Q1.%20Finding%20Two-Step%20Paths)**
   - Implemented a directed graph data structure and algorithms to find two-step paths from a given starting vertex.
   
-- **Problem 2**: Identifying Non-Connected Neurons
+- **[Problem 2: Identifying Non-Connected Neurons](https://github.com/sancakerkan/DirectedGraphProjects/tree/main/Q2.%20Identifying%20Non-Connected%20Neurons)**
   - Developed a program to read graph data from a text file, identify non-connected neurons, and print graph information.
 
 ## File Structure
@@ -29,16 +29,15 @@ In this programming homework, I implemented solutions for two distinct problems 
 The repository is structured as follows:
 
 
-- **CMPE-224-HW2/**: Root directory for the homework assignment.
-  - **Question 1/**: Directory for Problem 1.
-    - **src/**: Contains the Java source files for Problem 1.
-  - **Question 2/**: Directory for Problem 2.
-    - **src/**: Contains the Java source files for Problem 2.
+- **DirectedGraphProjects/**: Root directory for the homework assignment.
+  - **Q1. Finding Two-Step Paths/**: Contains the Java source files for Problem 1.
+  - **Q2. Identifying Non-Connected Neurons/**: Contains the Java source files for Problem 2.
+    
 
 ## How to Use
 
 1. Clone the repository to your local machine.
-2. Navigate to the appropriate directory for the problem you want to work on (`Question 1` for Problem 1, `Question 2` for Problem 2).
+2. Navigate to the appropriate directory for the problem you want to work on (`Q1. Finding Two-Step Paths` for Problem 1, `Q2. Identifying Non-Connected Neurons` for Problem 2).
 3. Compile the Java source files.
 4. **Ensure that the input text files (`HW2_Q1_text.txt` for Problem 1, `HW2_Q2_text.txt` for Problem 2) are in the appropriate directory before running the code.**
 5. Run the main program to execute the solution.
@@ -52,6 +51,7 @@ Specific test cases were used to validate the functionality of the programs. Det
 Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
 ## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
