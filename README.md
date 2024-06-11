@@ -1,4 +1,4 @@
-# Programming Homework 2
+# Programming Homework 2 Applications on Directed Graphs
 
 This repository contains my solutions for Programming Homework 2 for CMPE 224/343 - Spring 2024.
 
