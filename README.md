@@ -44,7 +44,7 @@ The repository is structured as follows:
 
 ## Testing
 
-Specific test cases were used to validate the functionality of the programs. Details of the testing process and outcomes can be found in the [report](Report.pdf).
+Specific test cases were used to validate the functionality of the programs. Details of the testing process and outcomes can be found in the [REPORT](https://github.com/sancakerkan/DirectedGraphProjects/blob/report/Report.pdf).
 
 ## Contributing
 
