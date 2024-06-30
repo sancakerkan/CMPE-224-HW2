@@ -24,7 +24,7 @@ public class HW2_Solution {
     public static void main(String[] args) {
         try {
             // Read lines from the graph data file
-            List<String> lines = FileRead.readLines("src/HW2_Q1_text.txt");
+            List<String> lines = FileRead.readLines("HW2_Q1_text.txt");
             // Initialize the graph with the specified number of vertices
             DirectGraph graph = new DirectGraph(10); // Correct number of vertices considering vertex '9' exists
 
@@ -49,8 +49,9 @@ public class HW2_Solution {
             List<List<Integer>> twoStepPaths = graph.findTwoStepPaths(startPoint);  // Find two-step paths from the start point
             
             // Display all found two-step paths
+            System.out.println(startPoint);
             for (List<Integer> path : twoStepPaths) {
-                System.out.println(path.get(0) + " " + path.get(1) + " " + path.get(2));
+            System.out.println(path.get(0) + " " + path.get(1) + " " + path.get(2));
             }
             scanner.close();  // Close scanner to free resources
 
