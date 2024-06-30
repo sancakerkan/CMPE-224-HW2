@@ -1,5 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Arrays;
+
 
 //-----------------------------------------------------
 // Title: DirectGraph Class
@@ -50,7 +52,8 @@ public class DirectGraph {
         List<Integer> firstStep = adjList.get(start);
         for (int node : firstStep) {
             for (int secondNode : adjList.get(node)) {
-                results.add(List.of(start, node, secondNode));
+                results.add(Arrays.asList(start, node, secondNode));
+
             }
         }
         return results;
